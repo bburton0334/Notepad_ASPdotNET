@@ -1,0 +1,120 @@
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\A07-Notepad.dll.config
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\A07-Notepad.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\A07-Notepad.pdb
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\csc.exe
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\csc.exe.config
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\csc.rsp
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\csi.exe
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\csi.exe.config
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\csi.rsp
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.AppContext.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Console.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.IO.Compression.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Net.Http.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Net.Sockets.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.ValueTuple.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Xml.XPath.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\vbc.exe
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\vbc.exe.config
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\vbc.rsp
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\VBCSCompiler.exe
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\obj\Debug\A07-Notepad.csprojAssemblyReference.cache
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\obj\Debug\A07-Notepad.csproj.CopyComplete
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\obj\Debug\A07-Notepad.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\obj\Debug\A07-Notepad.pdb
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\Newtonsoft.Json.dll
+C:\Users\diver\Desktop\WebDes\A07-Notepad\A07-Notepad\bin\Newtonsoft.Json.xml
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\A07-Notepad.dll.config
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\A07-Notepad.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\A07-Notepad.pdb
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\csc.exe
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\csc.exe.config
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\csc.rsp
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\csi.exe
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\csi.exe.config
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\csi.rsp
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.AppContext.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Console.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.IO.Compression.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Net.Http.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Net.Sockets.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.ValueTuple.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Xml.XPath.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\vbc.exe
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\vbc.exe.config
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\vbc.rsp
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\VBCSCompiler.exe
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\Newtonsoft.Json.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\Newtonsoft.Json.xml
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\obj\Debug\A07-Notepad.csprojAssemblyReference.cache
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\obj\Debug\A07-Notepad.csproj.CopyComplete
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\obj\Debug\A07-Notepad.dll
+C:\Users\diver\Documents\School-Levels\Level 3 (Fall 2021)\WebDes\A07-Notepad\A07-Notepad\obj\Debug\A07-Notepad.pdb
